@@ -1,4 +1,8 @@
+For some reason every single version of SScript on Haxelib was changed to just say "SScript is not available, thanks to everyone for their support".
 
+This is a backup of SScript 7.7.0 commonly used in [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine).
+
+I AM NOT THE ORIGINAL CREATOR, that would be TahirKarabekiroglu.
 
 ![TeaLogo](https://i.hizliresim.com/3o2yt2d.png)
 
@@ -10,12 +14,8 @@ SScript is an easy to use Haxe script tool that aims to be simple while supporti
 If you have an issue with SScript or have a suggestion, you can always open an issue here. However, pull requests are NOT welcome and will be ignored.
 
 ## Installation
-`haxelib install SScript`
 
-Enter this command in command prompt to get the latest release from Haxe library.
-
-
-`haxelib git SScript https://github.com/TahirKarabekiroglu/SScript.git`
+`haxelib git SScript https://github.com/x8c8r/SScript-7.7.0.git`
 
 Enter this command in command prompt to get the latest git release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
